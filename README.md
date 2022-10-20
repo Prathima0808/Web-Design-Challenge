@@ -1,4 +1,5 @@
-# Web-Design-Challenge   [https://prathima0808.github.io/Web-Design-Challenge/]
+# Web-Design-Challenge                        
+https://prathima0808.github.io/Web-Design-Challenge/
 
 # HTML, CSS and BOOTSTRAP to create a web page that displays visualizations and the data that is used to create the visualizations.
 
